@@ -14,3 +14,4 @@ o en su defecto desde la terminal.
 
 ## Nota
 *Para los resultados como plus agregue un reporte usando un extendreport que se guarda en la carpeta "test-output" en formato HTML.
+*Se anexa el archivo CasosDePruebaHunty.xslx en el cual se espcifican los casos de prueba del primer punto de la prueba técnica.
