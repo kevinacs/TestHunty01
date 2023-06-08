@@ -9,3 +9,6 @@ o en su defecto desde la terminal.
 
 2.Se deja corriendo con el chromeDriver para la v. 114.0.5735.110 de chrome
 
+/************************************************************************************************/
+Para los resultados como plus agregue un reporte usando un extendreport que se guarda en la carpeta "test-output" en formato HTML.
+
